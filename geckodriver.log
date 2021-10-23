@@ -1,0 +1,11 @@
+1634450672145	geckodriver	INFO	Listening on 127.0.0.1:62948
+1634450675254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62949" "-no-remote" "-profile" "C:\\Users\\prabibeh\\AppData\\Local\\Temp\\rust_mozprofilel8sJbE"
+1634450677246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prabibeh\\AppData\\Local\\Temp\\rust_mozprofilel8sJbE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62949/devtools/browser/275c0070-59d8-4184-84ba-264df34d10bd
+1634450683373	Marionette	INFO	Listening on port 62954
+1634450683820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1634450697192	Marionette	INFO	Stopped listening on port 62954
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
